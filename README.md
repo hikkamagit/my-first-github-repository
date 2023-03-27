@@ -1,2 +1,2 @@
 # my-first-github-repository
-Here is my first github repository. Edit in local repo
+This line was modified manually during conflicts resolution
